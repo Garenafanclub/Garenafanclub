@@ -1,7 +1,7 @@
 - ## 👋 Hi, I’m Mayank (@Garenafanclub)
 
 💡 **Computer Science undergraduate** passionate about building scalable, real-world applications.  
-- 👀 Passionate about coding from dawn till dusk — I enjoy building and learning continuously!
+- 👀 Passionate about coding from dawn till dusk — I enjoy building and learning continuously!.
 🔥 **DSA enthusiast** with **300+ problems solved on LeetCode**, improving problem-solving & algorithmic thinking.  
 🚀 Skilled in **Java, Spring Boot, OOP, Android (Firebase), C/C++, HTML/CSS**, and backend architecture.  
 📦 Currently working on **Spring Boot backend systems**, exploring **Microservices & Docker deployments**.  
