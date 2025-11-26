@@ -7,10 +7,3 @@
 📦 Currently working on **Spring Boot backend services**, exploring **Microservices & Docker deployments**.  
 🤝 Open to collaborating on **open-source**, backend architecture, and high-performance systems.  
 📫 Reach me via **LinkedIn** — let’s connect and build something impactful!
-
-
-
-
-Garenafanclub/Garenafanclub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
